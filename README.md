@@ -6,5 +6,5 @@
 |----------|:-------------:|
 | Regular workflows |  Anywhere on your file system |
 | Folder actions |    `/Users/$USERNAME/Library/Workflows/Applications/Folder Actions ` |
-| Application | Anywhere on your file system |
+| Drag & Drop action (known as Application)| Anywhere on your file system |
 | Services| TBA |
