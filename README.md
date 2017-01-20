@@ -1,3 +1,4 @@
-#Folder actions Installation#
 
-Put workflow inside /Users/system-void/Library/Workflows/Applications/Folder Actions
+Regular workflows   Anywhere on your file system
+
+Folder actions      /Users/system-void/Library/Workflows/Applications/Folder Actions
