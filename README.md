@@ -8,3 +8,5 @@
 | Folder actions |    `/Users/$USER/Library/Workflows/Applications/Folder Actions ` |
 | Drag & Drop action (known as Application)| Anywhere on your file system |
 | Services| TBA |
+
+For Folder actions in Applescript. Use /Library/Scripts/Folder Action Scripts/
