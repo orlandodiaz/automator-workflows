@@ -60,8 +60,12 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>if [ $@ == '/Volumes/DTL+G3' ]; then
+  say "hi"
   open /Volumes/DTL+G3/Mac/DTLplus_Launcher.app/
-fi</string>
+fi
+#elif [ $@ == '/Volumes/KINGSTON' ]; then
+#  echo "/Volumes/KINGSTON/"
+#fi</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -171,12 +175,10 @@ fi</string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>526.500000:526.000000</string>
+				<string>353.500000:821.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
