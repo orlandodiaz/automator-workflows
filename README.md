@@ -15,4 +15,5 @@ For Folder actions in Applescript. Use /Library/Scripts/Folder Action Scripts/
 
 
 1. Install libav using homebrew. This step is crucical for the workflow to transcode m4a to flac
+
 `brew install libav`
