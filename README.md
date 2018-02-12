@@ -10,3 +10,9 @@
 | Services| TBA. You can just double click them to install them |
 
 For Folder actions in Applescript. Use /Library/Scripts/Folder Action Scripts/
+
+# Installation steps
+
+
+1. Install libav using homebrew. This step is crucical for the workflow to transcode m4a to flac
+`brew install libav`
